@@ -2,6 +2,10 @@
 Video Game Sales Dashboard.
 This is a fun project done out of my passion and interest in gaming to understand how the video game sales were over the years and what genres or games were the most popular in different regions of the world.
 
+I've published the dashboard to my tableau public profile:
+https://public.tableau.com/app/profile/shanmukha.sai.krishna.chaitanya.kota/viz/VideoGameSales_16980986732350/VideoGameSales
+
+
 Data set is taken from kaggle:
 https://www.kaggle.com/datasets/gregorut/videogamesales/data
 
