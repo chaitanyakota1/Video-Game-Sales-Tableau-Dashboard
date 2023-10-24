@@ -5,6 +5,9 @@ This is a fun project done out of my passion and interest in gaming to understan
 I've published the dashboard to my tableau public profile:
 https://public.tableau.com/app/profile/shanmukha.sai.krishna.chaitanya.kota/viz/VideoGameSales_16980986732350/VideoGameSales
 
+![Video Game Sales](https://github.com/chaitanyakota1/VideoGameSales/assets/105067802/adfdb0ea-cd4c-4e76-bb49-9278b5660137)
+
+
 
 Data set is taken from kaggle:
 https://www.kaggle.com/datasets/gregorut/videogamesales/data
